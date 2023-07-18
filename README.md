@@ -7,3 +7,9 @@ utilizing the WOEID (Where On Earth ID) system to identify different locations.
 By leveraging React.js for the frontend, we aim to create an interactive and user-friendly interface that displays the trending
 topics. The Node.js backend will handle API requests and data processing, ensuring accurate and up-to-date trend analysis. 
 This project offers valuable insights into current Twitter trends and serves as a useful tool for trend analysis enthusiasts.
+
+## Install dependencies
+Install the dependencies first by going into individual folders, i.e., frontend and backend using npm install individually
+
+## Run the application
+use npm run dev inside the project root folder to start the both applications, frontend React will run on PORT=3000 and backend express will run on PORT=4000
